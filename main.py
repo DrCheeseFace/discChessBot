@@ -91,12 +91,6 @@ async def move(ctx,move):
             moveList.append(str(move))
         await ctx.send("possible moves: "+legalMoves)
 
-        
 
-
-
-
-
-
-bot.run('ODE3OTk0ODgxMjA1MDEwNDUz.YERnGQ.doHew8UupuIN9uvsyB5eFT9wnRc')
+bot.run('ODE3OTk0ODgxMjA1MDEwNDUz.YERnGQ.doHew8UupuIN9uvsyB5eFT9wnRc') #i already changed the bots key, dont bother :P
 
